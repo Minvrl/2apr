@@ -1,0 +1,17 @@
+
+li{
+    padding: 10px;
+    border: 1px solid gray;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: underline;
+    color: aquamarine;
+}
+
+#userUL li{
+    cursor: pointer;
+}
